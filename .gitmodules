@@ -1,0 +1,9 @@
+[submodule "sbipdemo"]
+	path = sbipdemo
+	url = https://github.com/nvrdftd/sbipdemo.git
+[submodule "sbipsc"]
+	path = sbipsc
+	url = https://github.com/nvrdftd/sbipsc.git
+[submodule "sbipbm"]
+	path = sbipbm
+	url = https://github.com/nvrdftd/sbipbm.git
